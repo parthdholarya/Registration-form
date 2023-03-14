@@ -1,2 +1,0 @@
-# Registration-form
-Registration form
